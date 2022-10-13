@@ -1,0 +1,5 @@
+train: /home/daniyal/Desktop/YOLO/ppeYOLOtraining/yolov7/custom_dataset/test/images
+val: /home/daniyal/Desktop/YOLO/ppeYOLOtraining/yolov7/custom_dataset/valid/images
+
+nc: 6
+names: ['face-shield', 'glooves', 'goggles', 'helmet', 'mask', 'vest']
